@@ -1,0 +1,23 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "35": "nodemon -e ts -w . -x tsx 35-insert-position.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jay-Karia/leetcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jay-Karia/leetcode/issues"
+  },
+  "homepage": "https://github.com/Jay-Karia/leetcode#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
