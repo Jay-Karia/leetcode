@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "35": "nodemon -e ts -w . -x tsx 35-insert-position.ts",
-    "66": "nodemon -e ts -w . -x tsx 66-plus-one.ts"
+    "35": "nodemon -e ts -w . -x tsx 35-insert-position/35-insert-position.ts",
+    "66": "nodemon -e ts -w . -x tsx 66-plus-one/66-plus-one.ts",
+    "3": "nodemon -e ts -w . -x tsx 3-longest-substring/3-longest-substring.ts"
   },
   "repository": {
     "type": "git",
