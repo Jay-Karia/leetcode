@@ -8,8 +8,7 @@ function plusOne(digits: number[]): number[] {
   if (digits[digits.length - 1] < 9) {
     sum[digits.length - 1]++;
     // Add counter number of digits
-    for (let i = 0; i < counter; i++)
-      sum.push(0);
+    for (let i = 0; i < counter; i++) sum.push(0);
     counter = 0;
     return sum;
   }
@@ -17,16 +16,15 @@ function plusOne(digits: number[]): number[] {
   if (sum.length === 1) {
     // console.log(sum);
     sum = [1, 0];
-    for (let i = 0; i < counter; i++)
-      sum.push(0);
+    for (let i = 0; i < counter; i++) sum.push(0);
     counter = 0;
     return sum;
   }
 
   sum[digits.length - 1] = 0;
-  counter ++;
+  counter++;
 
   sum.pop();
 
   return plusOne(sum);
-};
+}

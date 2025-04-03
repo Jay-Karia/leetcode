@@ -1,10 +1,10 @@
 function isEqual(s: string[], n: string): boolean {
   let equal = false;
   s.forEach(s => {
-    if(s === n) {
+    if (s === n) {
       equal = true;
     }
-  })
+  });
   return equal;
 }
 
@@ -12,9 +12,8 @@ function getMax(s: number[]): number {
   let max = 0;
 
   s.forEach(n => {
-    if (n > max)
-      max = n;
-  })
+    if (n > max) max = n;
+  });
 
   return max;
 }
@@ -31,8 +30,7 @@ function lengthOfLongestSubstring(s: string): number {
     subs.push(char);
     for (let j = i + 1; j < len; j++) {
       const char2 = s[j];
-      if (!isEqual(subs, char2))
-        subs.push(char2)
+      if (!isEqual(subs, char2)) subs.push(char2);
       else {
         subs = [];
         break;
@@ -46,8 +44,7 @@ function lengthOfLongestSubstring(s: string): number {
   subs = [];
   lens = [];
   return max;
-};
-
+}
 
 console.log(lengthOfLongestSubstring("abcabcbb")); // 3
 console.log(lengthOfLongestSubstring("bbbbb")); // 1

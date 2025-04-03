@@ -6,7 +6,8 @@
     "35": "nodemon -e ts -w . -x tsx 35-insert-position/35-insert-position.ts",
     "66": "nodemon -e ts -w . -x tsx 66-plus-one/66-plus-one.ts",
     "3": "nodemon -e ts -w . -x tsx 3-longest-substring/3-longest-substring.ts",
-    "5": "nodemon -e ts -w . -x tsx 5-longest-palindrome/5-longest-palindrome.ts"
+    "5": "nodemon -e ts -w . -x tsx 5-longest-palindrome/5-longest-palindrome.ts",
+    "format": "npx prettier . --write"
   },
   "repository": {
     "type": "git",
