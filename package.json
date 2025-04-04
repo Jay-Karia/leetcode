@@ -8,6 +8,7 @@
     "3": "nodemon -e ts -w . -x tsx 3-longest-substring/3-longest-substring.ts",
     "5": "nodemon -e ts -w . -x tsx 5-longest-palindrome/5-longest-palindrome.ts",
     "6": "nodemon -e ts -w . -x tsx 6-zigzag-conversion/6-zigzag-conversion.ts",
+    "67": "nodemon -e ts -w . -x tsx 67-add-binary/67-add-binary.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
