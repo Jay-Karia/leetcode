@@ -9,6 +9,7 @@
     "5": "nodemon -e ts -w . -x tsx 5-longest-palindrome/5-longest-palindrome.ts",
     "6": "nodemon -e ts -w . -x tsx 6-zigzag-conversion/6-zigzag-conversion.ts",
     "67": "nodemon -e ts -w . -x tsx 67-add-binary/67-add-binary.ts",
+    "368": "nodemon -e ts -w . -x tsx 368-largest-divisible-subset/368-largest-divisible-subset.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
