@@ -11,6 +11,7 @@
     "67": "nodemon -e ts -w . -x tsx 67-add-binary/67-add-binary.ts",
     "368": "nodemon -e ts -w . -x tsx 368-largest-divisible-subset/368-largest-divisible-subset.ts",
     "416": "nodemon -e ts -w . -x tsx 416-partition-equal-sum/416-partition-equal-sum.ts",
+    "3396": "nodemon -e ts -w . -x tsx 3396-minimum-number-of-operations/3396-minimum-number-of-operations.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
