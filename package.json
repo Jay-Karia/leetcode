@@ -14,6 +14,7 @@
     "3396": "nodemon -e ts -w . -x tsx 3396-minimum-number-of-operations/3396-minimum-number-of-operations.ts",
     "3375": "nodemon -e ts -w . -x tsx 3375-minimum-operations-equal/3375-minimum-operations-equal.ts",
     "2616": "nodemon -e ts -w . -x tsx 2616-minimize-the-max-diff/2616-minimize-the-max-diff.ts",
+    "28": "nodemon -e ts -w . -x tsx 28-first-string-index/28-first-string-index.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
