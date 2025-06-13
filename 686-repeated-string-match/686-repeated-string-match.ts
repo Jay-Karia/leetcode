@@ -31,6 +31,6 @@ function repeatedStringMatch(a: string, b: string): number {
   return -1;
 }
 
-// console.log(repeatedStringMatch("abcd", "cdabcdab")); // Output: 3
-// console.log(repeatedStringMatch("a", "aa")); // Output: 2
+console.log(repeatedStringMatch("abcd", "cdabcdab")); // Output: 3
+console.log(repeatedStringMatch("a", "aa")); // Output: 2
 console.log(repeatedStringMatch("aaaaaaaaaaaaaaaaaaaaaab", "ba")); // Output: 2
