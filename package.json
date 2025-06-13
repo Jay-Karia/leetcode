@@ -16,6 +16,7 @@
     "2616": "nodemon -e ts -w . -x tsx 2616-minimize-the-max-diff/2616-minimize-the-max-diff.ts",
     "28": "nodemon -e ts -w . -x tsx 28-first-string-index/28-first-string-index.ts",
     "459": "nodemon -e ts -w . -x tsx 459-repeated-substring/459-repeated-substring.ts",
+    "686": "nodemon -e ts -w . -x tsx 686-repeated-string-match/686-repeated-string-match.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
