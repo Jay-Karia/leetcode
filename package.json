@@ -21,6 +21,7 @@
     "65": "nodemon -e ts -w . -x tsx 65-jump-game/65-jump-game.ts",
     "120": "nodemon -e ts -w . -x tsx 120-triangle/120-triangle.ts",
     "49": "nodemon -e ts -w . -x tsx 49-group-anagrams/49-group-anagrams.ts",
+    "2566": "nodemon -e ts -w . -x tsx 2566-max-diff-remap/2566-max-diff-remap.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
