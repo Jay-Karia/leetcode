@@ -23,6 +23,7 @@
     "49": "nodemon -e ts -w . -x tsx 49-group-anagrams/49-group-anagrams.ts",
     "2566": "nodemon -e ts -w . -x tsx 2566-max-diff-remap/2566-max-diff-remap.ts",
     "43": "nodemon -e ts -w . -x tsx 43-mul-string/43-mul-string.ts",
+    "2": "nodemon -e ts -w . -x tsx 2-add-two-num/2-add-two-num.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
