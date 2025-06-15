@@ -25,6 +25,7 @@
     "43": "nodemon -e ts -w . -x tsx 43-mul-string/43-mul-string.ts",
     "2": "nodemon -e ts -w . -x tsx 2-add-two-num/2-add-two-num.ts",
     "1432": "nodemon -e ts -w . -x tsx 1432-max-diff-change/1432-max-diff-change.ts",
+    "131": "nodemon -e ts -w . -x tsx 131-palindrome-partition/131-palindrome-partition.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
