@@ -29,6 +29,7 @@
     "7": "nodemon -e ts -w . -x tsx 7-reverse-integer/7-reverse-integer.ts",
     "17": "nodemon -e ts -w . -x tsx 17-phone-number-letter/17-phone-number-letter.ts",
     "78": "nodemon -e ts -w . -x tsx 78-subsets/78-subsets.ts",
+    "31": "nodemon -e ts -w . -x tsx 31-next-permutation/31-next-permutation.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
