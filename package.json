@@ -26,6 +26,8 @@
     "2": "nodemon -e ts -w . -x tsx 2-add-two-num/2-add-two-num.ts",
     "1432": "nodemon -e ts -w . -x tsx 1432-max-diff-change/1432-max-diff-change.ts",
     "131": "nodemon -e ts -w . -x tsx 131-palindrome-partition/131-palindrome-partition.ts",
+    "7": "nodemon -e ts -w . -x tsx 7-reverse-integer/7-reverse-integer.ts",
+    "17": "nodemon -e ts -w . -x tsx 17-phone-number-letter/17-phone-number-letter.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
