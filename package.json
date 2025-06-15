@@ -28,6 +28,7 @@
     "131": "nodemon -e ts -w . -x tsx 131-palindrome-partition/131-palindrome-partition.ts",
     "7": "nodemon -e ts -w . -x tsx 7-reverse-integer/7-reverse-integer.ts",
     "17": "nodemon -e ts -w . -x tsx 17-phone-number-letter/17-phone-number-letter.ts",
+    "78": "nodemon -e ts -w . -x tsx 78-subsets/78-subsets.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
