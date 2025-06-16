@@ -33,6 +33,7 @@
     "179": "nodemon -e ts -w . -x tsx 179-largest-number/179-largest-number.ts",
     "139": "nodemon -e ts -w . -x tsx 139-word-break/139-word-break.ts",
     "258": "nodemon -e ts -w . -x tsx 258-add-digits/258-add-digits.ts",
+    "263": "nodemon -e ts -w . -x tsx 263-ugly-number/263-ugly-number.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
