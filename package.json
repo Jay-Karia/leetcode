@@ -44,6 +44,7 @@
     "41": "nodemon -e ts -w . -x tsx 41-first-missing-positive/41-first-missing-positive.ts",
     "233": "nodemon -e ts -w . -x tsx 233-number-of-digit-one/233-number-of-digit-one.ts",
     "367": "nodemon -e ts -w . -x tsx 367-valid-perfect-square/367-valid-perfect-square.ts",
+    "125": "nodemon -e ts -w . -x tsx 125-valid-palindrome/125-valid-palindrome.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
