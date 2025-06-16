@@ -40,6 +40,7 @@
     "136": "nodemon -e ts -w . -x tsx 136-single-number/136-single-number.ts",
     "315": "nodemon -e ts -w . -x tsx 315-count-smaller-number/315-count-smaller-number.ts",
     "878": "nodemon -e ts -w . -x tsx 878-n-magical-number/878-n-magical-number.ts",
+    "564": "nodemon -e ts -w . -x tsx 564-closest-palindrome/564-closest-palindrome.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
