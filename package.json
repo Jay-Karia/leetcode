@@ -46,6 +46,7 @@
     "367": "nodemon -e ts -w . -x tsx 367-valid-perfect-square/367-valid-perfect-square.ts",
     "125": "nodemon -e ts -w . -x tsx 125-valid-palindrome/125-valid-palindrome.ts",
     "242": "nodemon -e ts -w . -x tsx 242-valid-anagram/242-valid-anagram.ts",
+    "20": "nodemon -e ts -w . -x tsx 20-valid-parenthesis/20-valid-parenthesis.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
