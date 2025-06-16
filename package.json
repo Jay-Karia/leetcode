@@ -38,6 +38,7 @@
     "231": "nodemon -e ts -w . -x tsx 231-power-of-two/231-power-of-two.ts",
     "169": "nodemon -e ts -w . -x tsx 169-majority-element/169-majority-element.ts",
     "136": "nodemon -e ts -w . -x tsx 136-single-number/136-single-number.ts",
+    "315": "nodemon -e ts -w . -x tsx 315-count-smaller-number/315-count-smaller-number.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
