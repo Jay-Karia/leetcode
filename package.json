@@ -35,6 +35,7 @@
     "258": "nodemon -e ts -w . -x tsx 258-add-digits/258-add-digits.ts",
     "263": "nodemon -e ts -w . -x tsx 263-ugly-number/263-ugly-number.ts",
     "2016": "nodemon -e ts -w . -x tsx 2016-max-diff-increasing-elems/2016-max-diff-increasing-elems.ts",
+    "231": "nodemon -e ts -w . -x tsx 231-power-of-two/231-power-of-two.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
