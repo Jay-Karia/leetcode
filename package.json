@@ -47,6 +47,7 @@
     "125": "nodemon -e ts -w . -x tsx 125-valid-palindrome/125-valid-palindrome.ts",
     "242": "nodemon -e ts -w . -x tsx 242-valid-anagram/242-valid-anagram.ts",
     "20": "nodemon -e ts -w . -x tsx 20-valid-parenthesis/20-valid-parenthesis.ts",
+    "21": "nodemon -e ts -w . -x tsx 21-merge-sorted-lists/21-merge-sorted-lists.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
