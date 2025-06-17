@@ -48,6 +48,7 @@
     "242": "nodemon -e ts -w . -x tsx 242-valid-anagram/242-valid-anagram.ts",
     "20": "nodemon -e ts -w . -x tsx 20-valid-parenthesis/20-valid-parenthesis.ts",
     "21": "nodemon -e ts -w . -x tsx 21-merge-sorted-lists/21-merge-sorted-lists.ts",
+    "3405": "nodemon -e ts -w . -x tsx 3405-count-arrays-k-matching/3405-count-arrays-k-matching.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
