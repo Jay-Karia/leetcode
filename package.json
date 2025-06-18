@@ -50,6 +50,9 @@
     "21": "nodemon -e ts -w . -x tsx 21-merge-sorted-lists/21-merge-sorted-lists.ts",
     "3405": "nodemon -e ts -w . -x tsx 3405-count-arrays-k-matching/3405-count-arrays-k-matching.ts",
     "12": "nodemon -e ts -w . -x tsx 12-integer-roman/12-integer-roman.ts",
+    "152": "nodemon -e ts -w . -x tsx 152-max-product-subarray/152-max-product-subarray.ts",
+    "2966": "nodemon -e ts -w . -x tsx 2966-divide-array-into-arrays/2966-divide-array-into-arrays.ts",
+    "264": "nodemon -e ts -w . -x tsx 264-ugly-number-II/264-ugly-number-II.ts",
     "format": "npx prettier . --write"
   },
   "repository": {

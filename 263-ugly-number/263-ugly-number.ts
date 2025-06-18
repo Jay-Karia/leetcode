@@ -20,12 +20,12 @@ function isUgly(n: number): boolean {
 
   const primeFactors = getPrimeFactors(n);
   for (const factor of primeFactors) {
-    if (!allowedPrimeFactors.includes(factor)) {
+    if (!primeFactors.includes(factor)) {
       return false;
     }
   }
   // If all prime factors are in the allowed list, return true
-  if (primeFactors.every(factor => allowedPrimeFactors.includes(factor))) {
+  if (primeFactors.every(factor => primeFactors.includes(factor))) {
     return true;
   }
   // If any prime factor is not in the allowed list, return false
