@@ -54,6 +54,7 @@
     "2966": "nodemon -e ts -w . -x tsx 2966-divide-array-into-arrays/2966-divide-array-into-arrays.ts",
     "264": "nodemon -e ts -w . -x tsx 264-ugly-number-II/264-ugly-number-II.ts",
     "2294": "nodemon -e ts -w . -x tsx 2294-partition-array/2294-partition-array.ts",
+    "3443": "nodemon -e ts -w . -x tsx 3443-max-manhattan-distance/3443-max-manhattan-distance.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
