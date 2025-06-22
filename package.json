@@ -59,6 +59,7 @@
     "198": "nodemon -e ts -w . -x tsx 198-house-robber/198-house-robber.ts",
     "213": "nodemon -e ts -w . -x tsx 213-house-robber-II/213-house-robber-II.ts",
     "29": "nodemon -e ts -w . -x tsx 29-divide-integers/29-divide-integers.ts",
+    "34": "nodemon -e ts -w . -x tsx 34-first-and-last-position/34-first-and-last-position.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
