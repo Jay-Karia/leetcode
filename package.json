@@ -56,6 +56,7 @@
     "2294": "nodemon -e ts -w . -x tsx 2294-partition-array/2294-partition-array.ts",
     "3443": "nodemon -e ts -w . -x tsx 3443-max-manhattan-distance/3443-max-manhattan-distance.ts",
     "2138": "nodemon -e ts -w . -x tsx 2138-divide-string-into-groups/2138-divide-string-into-groups.ts",
+    "198": "nodemon -e ts -w . -x tsx 198-house-robber/198-house-robber.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
