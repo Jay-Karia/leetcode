@@ -58,6 +58,7 @@
     "2138": "nodemon -e ts -w . -x tsx 2138-divide-string-into-groups/2138-divide-string-into-groups.ts",
     "198": "nodemon -e ts -w . -x tsx 198-house-robber/198-house-robber.ts",
     "213": "nodemon -e ts -w . -x tsx 213-house-robber-II/213-house-robber-II.ts",
+    "29": "nodemon -e ts -w . -x tsx 29-divide-integers/29-divide-integers.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
