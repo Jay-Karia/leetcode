@@ -60,6 +60,7 @@
     "213": "nodemon -e ts -w . -x tsx 213-house-robber-II/213-house-robber-II.ts",
     "29": "nodemon -e ts -w . -x tsx 29-divide-integers/29-divide-integers.ts",
     "34": "nodemon -e ts -w . -x tsx 34-first-and-last-position/34-first-and-last-position.ts",
+    "2081": "nodemon -e ts -w . -x tsx 2081-sum-of-k-mirror-numbers/2081-sum-of-k-mirror-numbers.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
