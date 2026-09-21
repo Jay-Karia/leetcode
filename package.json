@@ -67,6 +67,8 @@
     "3396": "nodemon -e ts -w . -x tsx 3396-minimum-number-of-operations/3396-minimum-number-of-operations.ts",
     "3405": "nodemon -e ts -w . -x tsx 3405-count-arrays-k-matching/3405-count-arrays-k-matching.ts",
     "3443": "nodemon -e ts -w . -x tsx 3443-max-manhattan-distance/3443-max-manhattan-distance.ts",
+    "3498": "nodemon -e ts -w . -x tsx 3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.ts",
+    "3524": "nodemon -e ts -w . -x tsx 3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
