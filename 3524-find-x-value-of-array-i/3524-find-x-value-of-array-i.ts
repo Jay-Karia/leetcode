@@ -1,4 +1,3 @@
-
 function resultArray (nums: number[], k: number): number[] {
     const ans = new Array(k).fill(0);
     let dp = new Array(k).fill(0);
