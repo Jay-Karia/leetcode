@@ -15,6 +15,7 @@
     "19": "nodemon -e ts -w . -x tsx 19-remove-nth-node/19-remove-nth-node.ts",
     "20": "nodemon -e ts -w . -x tsx 20-valid-parenthesis/20-valid-parenthesis.ts",
     "21": "nodemon -e ts -w . -x tsx 21-merge-sorted-lists/21-merge-sorted-lists.ts",
+    "27": "nodemon -e ts -w . -x tsx  27-remove-element/27-remove-element.ts",
     "28": "nodemon -e ts -w . -x tsx 28-first-string-index/28-first-string-index.ts",
     "29": "nodemon -e ts -w . -x tsx 29-divide-integers/29-divide-integers.ts",
     "31": "nodemon -e ts -w . -x tsx 31-next-permutation/31-next-permutation.ts",
