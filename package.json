@@ -14,6 +14,7 @@
     "17": "nodemon -e ts -w . -x tsx 17-phone-number-letter/17-phone-number-letter.ts",
     "19": "nodemon -e ts -w . -x tsx 19-remove-nth-node/19-remove-nth-node.ts",
     "20": "nodemon -e ts -w . -x tsx 20-valid-parenthesis/20-valid-parenthesis.ts",
+    "26": "nodemon -e ts -w . -x tsx  26-remove-duplicates-from-sorted-array/26-remove-duplicates-from-sorted-array.ts",
     "21": "nodemon -e ts -w . -x tsx 21-merge-sorted-lists/21-merge-sorted-lists.ts",
     "27": "nodemon -e ts -w . -x tsx  27-remove-element/27-remove-element.ts",
     "28": "nodemon -e ts -w . -x tsx 28-first-string-index/28-first-string-index.ts",
