@@ -30,6 +30,7 @@
     "67": "nodemon -e ts -w . -x tsx 67-add-binary/67-add-binary.ts",
     "69": "nodemon -e ts -w . -x tsx 69-sqrt/69-sqrt.ts",
     "78": "nodemon -e ts -w . -x tsx 78-subsets/78-subsets.ts",
+    "118": "nodemon -e ts -w . -x tsx 118-pascal-triangle/118-pascal-triangle.ts",
     "120": "nodemon -e ts -w . -x tsx 120-triangle/120-triangle.ts",
     "125": "nodemon -e ts -w . -x tsx 125-valid-palindrome/125-valid-palindrome.ts",
     "131": "nodemon -e ts -w . -x tsx 131-palindrome-partition/131-palindrome-partition.ts",
