@@ -74,6 +74,7 @@
     "3498": "nodemon -e ts -w . -x tsx 3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.ts",
     "3524": "nodemon -e ts -w . -x tsx 3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.ts",
     "3525": "nodemon -e ts -w . -x tsx 3525-find-x-value-of-array-2/3525-find-x-value-of-array-2.ts",
+    "3550": "nodemon -e ts -w . -x tsx  3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
