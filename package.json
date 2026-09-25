@@ -56,6 +56,7 @@
     "564": "nodemon -e ts -w . -x tsx 564-closest-palindrome/564-closest-palindrome.ts",
     "686": "nodemon -e ts -w . -x tsx 686-repeated-string-match/686-repeated-string-match.ts",
     "878": "nodemon -e ts -w . -x tsx 878-n-magical-number/878-n-magical-number.ts",
+    "1096": "nodemon -e ts -w . -x tsx 1096-brace-expansion-ii/1096-brace-expansion-ii.ts",
     "1401": "nodemon -e ts -w . -x tsx 1401-circle-rectangle-overlapping/1401-circle-rectangle-overlapping.ts",
     "1432": "nodemon -e ts -w . -x tsx 1432-max-diff-change/1432-max-diff-change.ts",
     "1477": "nodemon -e ts -w . -x tsx 1477-two-non-overlapping-sub-arrays/1477-two-non-overlapping-sub-arrays.ts",
