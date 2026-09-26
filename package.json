@@ -62,6 +62,7 @@
     "1477": "nodemon -e ts -w . -x tsx 1477-two-non-overlapping-sub-arrays/1477-two-non-overlapping-sub-arrays.ts",
     "1520": "nodemon -e ts -w . -x tsx 1520-max-no-overlapping-substrings/1520-max-no-overlapping-substrings.ts",
     "1658": "nodemon -e ts -w . -x tsx  1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.ts",
+    "1807": "nodemon -e ts -w . -x tsx 1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.ts",
     "2016": "nodemon -e ts -w . -x tsx 2016-max-diff-increasing-elems/2016-max-diff-increasing-elems.ts",
     "2081": "nodemon -e ts -w . -x tsx 2081-sum-of-k-mirror-numbers/2081-sum-of-k-mirror-numbers.ts",
     "2138": "nodemon -e ts -w . -x tsx 2138-divide-string-into-groups/2138-divide-string-into-groups.ts",
