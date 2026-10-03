@@ -21,6 +21,7 @@
     "28": "nodemon -e ts -w . -x tsx 28-first-string-index/28-first-string-index.ts",
     "29": "nodemon -e ts -w . -x tsx 29-divide-integers/29-divide-integers.ts",
     "31": "nodemon -e ts -w . -x tsx 31-next-permutation/31-next-permutation.ts",
+    "32": "nodemon -e ts -w . -x tsx  32-longest-paremthesis/32-longest-paremthesis.ts",
     "34": "nodemon -e ts -w . -x tsx 34-first-and-last-position/34-first-and-last-position.ts",
     "35": "nodemon -e ts -w . -x tsx 35-insert-position/35-insert-position.ts",
     "41": "nodemon -e ts -w . -x tsx 41-first-missing-positive/41-first-missing-positive.ts",
