@@ -56,6 +56,7 @@
     "416": "nodemon -e ts -w . -x tsx 416-partition-equal-sum/416-partition-equal-sum.ts",
     "459": "nodemon -e ts -w . -x tsx 459-repeated-substring/459-repeated-substring.ts",
     "564": "nodemon -e ts -w . -x tsx 564-closest-palindrome/564-closest-palindrome.ts",
+    "678": "nodemon -e ts -w . -x tsx 678-valid-parenthsis/678-valid-parenthsis.ts",
     "686": "nodemon -e ts -w . -x tsx 686-repeated-string-match/686-repeated-string-match.ts",
     "878": "nodemon -e ts -w . -x tsx 878-n-magical-number/878-n-magical-number.ts",
     "1096": "nodemon -e ts -w . -x tsx 1096-brace-expansion-ii/1096-brace-expansion-ii.ts",
