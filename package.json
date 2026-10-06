@@ -60,6 +60,7 @@
     "686": "nodemon -e ts -w . -x tsx 686-repeated-string-match/686-repeated-string-match.ts",
     "856": "nodemon -e ts -w . -x tsx 856-score-of-parenthesis/856-score-of-parenthesis.ts",
     "878": "nodemon -e ts -w . -x tsx 878-n-magical-number/878-n-magical-number.ts",
+    "921": "nodemon -e ts -w . -x tsx 921-min-add-to-make-parenthesis-valid/921-min-add-to-make-parenthesis-valid",
     "1096": "nodemon -e ts -w . -x tsx 1096-brace-expansion-ii/1096-brace-expansion-ii.ts",
     "1111": "nodemon -e ts -w . -x tsx 1111-max-depth-of-two-strings/1111-max-depth-of-two-strings.ts",
     "1401": "nodemon -e ts -w . -x tsx 1401-circle-rectangle-overlapping/1401-circle-rectangle-overlapping.ts",
