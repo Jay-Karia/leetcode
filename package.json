@@ -52,6 +52,7 @@
     "264": "nodemon -e ts -w . -x tsx 264-ugly-number-II/264-ugly-number-II.ts",
     "301": "nodemon -e ts -w . -x tsx 301-remove-invalid-parenthesis/301-remove-invalid-parenthesis.ts",
     "315": "nodemon -e ts -w . -x tsx 315-count-smaller-number/315-count-smaller-number.ts",
+    "338": "nodemon -e ts -w . -x tsx 338-counting-bits/338-counting-bits.ts",
     "367": "nodemon -e ts -w . -x tsx 367-valid-perfect-square/367-valid-perfect-square.ts",
     "368": "nodemon -e ts -w . -x tsx 368-largest-divisible-subset/368-largest-divisible-subset.ts",
     "416": "nodemon -e ts -w . -x tsx 416-partition-equal-sum/416-partition-equal-sum.ts",
