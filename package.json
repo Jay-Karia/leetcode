@@ -79,6 +79,7 @@
     "2138": "nodemon -e ts -w . -x tsx 2138-divide-string-into-groups/2138-divide-string-into-groups.ts",
     "2267": "nodemon -e ts -w . -x tsx 2267-check-if-valid-parenthesis-strings-combination/2267-check-if-valid-parenthesis-strings-combination.ts",
     "2294": "nodemon -e ts -w . -x tsx 2294-partition-array/2294-partition-array.ts",
+    "2333": "nodemon -e ts -w . -x tsx 2333-min-sum-of-squared-diff/2333-min-sum-of-squared-diff",
     "2566": "nodemon -e ts -w . -x tsx 2566-max-diff-remap/2566-max-diff-remap.ts",
     "2616": "nodemon -e ts -w . -x tsx 2616-minimize-the-max-diff/2616-minimize-the-max-diff.ts",
     "2966": "nodemon -e ts -w . -x tsx 2966-divide-array-into-arrays/2966-divide-array-into-arrays.ts",
