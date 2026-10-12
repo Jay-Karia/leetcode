@@ -83,6 +83,7 @@
     "2566": "nodemon -e ts -w . -x tsx 2566-max-diff-remap/2566-max-diff-remap.ts",
     "2616": "nodemon -e ts -w . -x tsx 2616-minimize-the-max-diff/2616-minimize-the-max-diff.ts",
     "2778": "nodemon -e ts -w . -x tsx 2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.ts",
+    "2897": "nodemon -e ts -w . -x tsx 2897-apply-operations-to-max-sum-of-squares/2897-apply-operations-to-max-sum-of-squares",
     "2966": "nodemon -e ts -w . -x tsx 2966-divide-array-into-arrays/2966-divide-array-into-arrays.ts",
     "3375": "nodemon -e ts -w . -x tsx 3375-minimum-operations-equal/3375-minimum-operations-equal.ts",
     "3396": "nodemon -e ts -w . -x tsx 3396-minimum-number-of-operations/3396-minimum-number-of-operations.ts",
