@@ -11,9 +11,9 @@ function qpow(x: number | bigint, n: number | bigint): bigint {
     let res = 1n;
     while (n > 0n) {
         if (n & 1n) {
-            res = (res * x) % MOD;
+            res = (res * x) % mod;
         }
-        x = (x * x) % MOD;
+        x = (x * x) % mod;
         n >>= 1n;
     }
     return res;
@@ -25,12 +25,12 @@ function init(): void {
     }
     fact[0] = 1n;
     for (let i = 1; i < MX; i++) {
-        fact[i] = (fact[i - 1] * BigInt(i)) % MOD;
+        fact[i] = (fact[i - 1] * BigInt(i)) % mod;
     }
 
-    invFact[MX - 1] = qpow(fact[MX - 1], MOD - 2n);
+    invFact[MX - 1] = qpow(fact[MX - 1], mod - 2n);
     for (let i = MX - 2; i >= 0; i--) {
-        invFact[i] = (invFact[i + 1] * BigInt(i + 1)) % MOD;
+        invFact[i] = (invFact[i + 1] * BigInt(i + 1)) % mod;
     }
 }
 
@@ -38,14 +38,14 @@ function comb(n: number, m: number): bigint {
     if (m < 0 || m > n) {
         return 0n;
     }
-    return (((fact[n] * invFact[m]) % MOD) * invFact[n - m]) % MOD;
+    return (((fact[n] * invFact[m]) % mod) * invFact[n - m]) % mod;
 }
 
 function countGoodArrays(n: number, m: number, k: number): number {
     init();
     let res = comb(n - 1, k);
-    res = (res * BigInt(m)) % MOD;
-    res = (res * qpow(m - 1, n - k - 1)) % MOD;
+    res = (res * BigInt(m)) % mod;
+    res = (res * qpow(m - 1, n - k - 1)) % mod;
     return Number(res);
 }
 
