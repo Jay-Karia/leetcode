@@ -102,6 +102,7 @@
     "3727": "nodemon -e ts -w . -x tsx 3732-max-alternating-sum-of-squares/3732-max-alternating-sum-of-squares.ts",
     "3863": "nodemon -e ts -w . -x tsx 3863-min-operations-to-sort-string/3863-min-operations-to-sort-string.ts",
     "3886": "nodemon -e ts -w . -x tsx 3886-sum-of-sortable-integers/3886-sum-of-sortable-integers.ts",
+    "3942": "nodemon -e ts -w . -x tsx 3942-min-operations-to-sort-an-array/3942-min-operations-to-sort-an-array.ts",
     "format": "npx prettier . --write"
   },
   "repository": {
