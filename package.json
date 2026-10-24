@@ -82,6 +82,7 @@
     "2267": "nodemon -e ts -w . -x tsx 2267-check-if-valid-parenthesis-strings-combination/2267-check-if-valid-parenthesis-strings-combination.ts",
     "2294": "nodemon -e ts -w . -x tsx 2294-partition-array/2294-partition-array.ts",
     "2333": "nodemon -e ts -w . -x tsx 2333-min-sum-of-squared-diff/2333-min-sum-of-squared-diff",
+    "2409": "nodemon -e ts -w . -x tsx 2409-count-days-spent-together/2409-count-days-spent-together.ts",
     "2566": "nodemon -e ts -w . -x tsx 2566-max-diff-remap/2566-max-diff-remap.ts",
     "2616": "nodemon -e ts -w . -x tsx 2616-minimize-the-max-diff/2616-minimize-the-max-diff.ts",
     "2778": "nodemon -e ts -w . -x tsx 2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.ts",
