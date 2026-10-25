@@ -55,6 +55,7 @@
     "338": "nodemon -e ts -w . -x tsx 338-counting-bits/338-counting-bits.ts",
     "367": "nodemon -e ts -w . -x tsx 367-valid-perfect-square/367-valid-perfect-square.ts",
     "368": "nodemon -e ts -w . -x tsx 368-largest-divisible-subset/368-largest-divisible-subset.ts",
+    "392": "nodemon -e ts -w . -x tsx 392-is-subsequence/392-is-subsequence.ts",
     "416": "nodemon -e ts -w . -x tsx 416-partition-equal-sum/416-partition-equal-sum.ts",
     "459": "nodemon -e ts -w . -x tsx 459-repeated-substring/459-repeated-substring.ts",
     "564": "nodemon -e ts -w . -x tsx 564-closest-palindrome/564-closest-palindrome.ts",
