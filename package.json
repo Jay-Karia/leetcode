@@ -105,6 +105,7 @@
     "3644": "nodemon -e ts -w . -x tsx 3644-max-k-to-sort-purmutation/3644-max-k-to-sort-purmutation.ts",
     "3723": "nodemon -e ts -w . -x tsx 3723-max-sum-of-squares-of-digits/3723-max-sum-of-squares-of-digits.ts",
     "3727": "nodemon -e ts -w . -x tsx 3732-max-alternating-sum-of-squares/3732-max-alternating-sum-of-squares.ts",
+    "3841": "nodemon -e ts -w . -x tsx 3841-palendromic-path-queries-in-tree/3841-palendromic-path-queries-in-tree.ts",
     "3863": "nodemon -e ts -w . -x tsx 3863-min-operations-to-sort-string/3863-min-operations-to-sort-string.ts",
     "3882": "nodemon -e ts -w . -x tsx 3882-min-xor-path-in-grid/3882-min-xor-path-in-grid.ts",
     "3886": "nodemon -e ts -w . -x tsx 3886-sum-of-sortable-integers/3886-sum-of-sortable-integers.ts",
