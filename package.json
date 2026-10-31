@@ -103,6 +103,7 @@
     "3551": "nodemon -e ts -w . -x tsx 3551-min-swaps-to-sort-digit-sums/3551-min-swaps-to-sort-digit-sums.ts",
     "3619": "nodemon -e ts -w . -x tsx 3619-count-islands-with-total-value-divisble-by-k/3619-count-islands-with-total-value-divisble-by-k.ts",
     "3644": "nodemon -e ts -w . -x tsx 3644-max-k-to-sort-purmutation/3644-max-k-to-sort-purmutation.ts",
+    "3665": "nodemon -e ts -w . -x tsx 3665-twisted-mirror-count/3665-twisted-mirror-count.ts",
     "3723": "nodemon -e ts -w . -x tsx 3723-max-sum-of-squares-of-digits/3723-max-sum-of-squares-of-digits.ts",
     "3727": "nodemon -e ts -w . -x tsx 3732-max-alternating-sum-of-squares/3732-max-alternating-sum-of-squares.ts",
     "3841": "nodemon -e ts -w . -x tsx 3841-palendromic-path-queries-in-tree/3841-palendromic-path-queries-in-tree.ts",
