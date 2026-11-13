@@ -102,6 +102,7 @@
     "3375": "nodemon -e ts -w . -x tsx 3375-minimum-operations-equal/3375-minimum-operations-equal.ts",
     "3396": "nodemon -e ts -w . -x tsx 3396-minimum-number-of-operations/3396-minimum-number-of-operations.ts",
     "3405": "nodemon -e ts -w . -x tsx 3405-count-arrays-k-matching/3405-count-arrays-k-matching.ts",
+    "3420": "nodemon -e ts -w . -x tsx 3420-count-non-decreasing-subarrays-after-k-operations/3420-count-non-decreasing-subarrays-after-k-operations.ts",
     "3443": "nodemon -e ts -w . -x tsx 3443-max-manhattan-distance/3443-max-manhattan-distance.ts",
     "3498": "nodemon -e ts -w . -x tsx 3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.ts",
     "3505": "nodemon -e ts -w . -x tsx 3505-minimum-operations-to-make-elements-within-k-subarrays-equal/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.ts",
