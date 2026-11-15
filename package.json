@@ -76,6 +76,7 @@
     "1432": "nodemon -e ts -w . -x tsx 1432-max-diff-change/1432-max-diff-change.ts",
     "1477": "nodemon -e ts -w . -x tsx 1477-two-non-overlapping-sub-arrays/1477-two-non-overlapping-sub-arrays.ts",
     "1520": "nodemon -e ts -w . -x tsx 1520-max-no-overlapping-substrings/1520-max-no-overlapping-substrings.ts",
+    "1524": "nodemon -e ts -w . -x tsx 1524-number-of-sub-arrays-with-odd-sum/1524-number-of-sub-arrays-with-odd-sum.ts",
     "1541": "nodemon -e ts -w . -x tsx 1541-min-insertions-to-balance-parenthesis/1541-min-insertions-to-balance-parenthesis.ts",
     "1569": "nodemon -e ts -w . -x tsx 1569-number-of-ways-to-order-array-to-get-same-bst/1569-number-of-ways-to-order-array-to-get-same-bst.ts",
     "1606": "nodemon -e ts -w . -x tsx 1606-find-servers-that-handled-most-number-of-requests/1606-find-servers-that-handled-most-number-of-requests.ts",
