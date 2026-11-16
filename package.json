@@ -87,6 +87,7 @@
     "2081": "nodemon -e ts -w . -x tsx 2081-sum-of-k-mirror-numbers/2081-sum-of-k-mirror-numbers.ts",
     "2089": "nodemon -e ts -w . -x tsx 2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.ts",
     "2138": "nodemon -e ts -w . -x tsx 2138-divide-string-into-groups/2138-divide-string-into-groups.ts",
+    "2243": "nodemon -e ts -w . -x tsx 2243-calculate-digit-sum-of-a-string/2243-calculate-digit-sum-of-a-string.ts",
     "2267": "nodemon -e ts -w . -x tsx 2267-check-if-valid-parenthesis-strings-combination/2267-check-if-valid-parenthesis-strings-combination.ts",
     "2294": "nodemon -e ts -w . -x tsx 2294-partition-array/2294-partition-array.ts",
     "2333": "nodemon -e ts -w . -x tsx 2333-min-sum-of-squared-diff/2333-min-sum-of-squared-diff",
