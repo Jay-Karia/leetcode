@@ -103,6 +103,7 @@
     "2914": "nodemon -e ts -w . -x tsx 2914-minimum-number-of-changes-to-make-binary-string-beautiful/2914-minimum-number-of-changes-to-make-binary-string-beautiful.ts",
     "2916": "nodemon -e ts -w . -x tsx 2916-subarrays-distinct-elements-sum-od-squares-ii/2916-subarrays-distinct-elements-sum-od-squares-ii.ts",
     "2966": "nodemon -e ts -w . -x tsx 2966-divide-array-into-arrays/2966-divide-array-into-arrays.ts",
+    "3041": "nodemon -e ts -w . -x tsx 3041-maximize-consecutive-elements-in-an-array-after-modification/3041-maximize-consecutive-elements-in-an-array-after-modification.ts",
     "3105": "nodemon -e ts -w . -x tsx 3105-longest-strictly-increasing-or-strictly-decreasing-subarray/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.ts",
     "3364": "nodemon -e ts -w . -x tsx 3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.ts",
     "3375": "nodemon -e ts -w . -x tsx 3375-minimum-operations-equal/3375-minimum-operations-equal.ts",
