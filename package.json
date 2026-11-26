@@ -108,6 +108,7 @@
     "3041": "nodemon -e ts -w . -x tsx 3041-maximize-consecutive-elements-in-an-array-after-modification/3041-maximize-consecutive-elements-in-an-array-after-modification.ts",
     "3105": "nodemon -e ts -w . -x tsx 3105-longest-strictly-increasing-or-strictly-decreasing-subarray/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.ts",
     "3331": "nodemon -e ts -w . -x tsx 3331-find-subtree-sizes-after-changes/3331-find-subtree-sizes-after-changes.ts",
+    "3360": "nodemon -e ts -w . -x tsx 3360-stone-removal-game/3360-stone-removal-game.ts",
     "3364": "nodemon -e ts -w . -x tsx 3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.ts",
     "3375": "nodemon -e ts -w . -x tsx 3375-minimum-operations-equal/3375-minimum-operations-equal.ts",
     "3396": "nodemon -e ts -w . -x tsx 3396-minimum-number-of-operations/3396-minimum-number-of-operations.ts",
